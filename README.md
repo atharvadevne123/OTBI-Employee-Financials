@@ -71,8 +71,6 @@ Person Number
 
 
 
-**📸 Snapshots of the Report**
-
 ![img_alt](https://github.com/Jay-reddy-adv/Employee-Financial-Benefit-Insights-Cross-Subject-Analysis---OTBI/blob/b80ec878dbe6e14b910de11ffff610c9f634aff0/Title.png)
 
 
